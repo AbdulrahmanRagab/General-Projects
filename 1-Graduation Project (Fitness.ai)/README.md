@@ -1,7 +1,46 @@
 # 🏋️‍♂️ Fitness.ai - AI-Based Exercise Classification and Tracking
 
+## Table of Contents
+- [🌟 Overview](#-overview)
+- [🛠️ Technologies Used](#-technologies-used)
+- [🎯 Project Objectives](#-project-objectives)
+- [📹 Video Overview](#-video-overview)
+- [🚀 Key Features](#-key-features)
+- [🛠️ Methodology](#-methodology)
+- [🧠 Model Training and Evaluation](#-model-training-and-evaluation)
+- [🎉 Conclusion](#-conclusion)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [🔮 Future Work](#-future-work)
+- [🛠️ How to Use](#-how-to-use)
+
+---
+
 ## 🌟 Overview
 **Fitness.ai** is an AI-powered application designed to classify human exercises and track user performance in real-time. The application leverages advanced machine learning techniques, specifically **pose detection** and **multinomial logistic regression**, to accurately identify and monitor various fitness and physical therapy exercises. The project aims to revolutionize exercise classification and tracking by providing users with real-time feedback, personalized monitoring, and convenient accessibility.
+
+---
+
+## 🛠️ Technologies Used
+
+### Programming Language
+- **Python**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks and Libraries
+- **MediaPipe** (for pose detection)  
+  ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white)
+- **Pandas** (for data manipulation)  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- **NumPy** (for numerical computations)  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- **OpenCV** (for video processing)  
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- **Scikit-learn** (for machine learning)  
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Plotly** (for data visualization)  
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+- **Matplotlib** (for data visualization)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ---
 
