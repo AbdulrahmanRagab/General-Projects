@@ -1,6 +1,3 @@
-Thank you for sharing the complete project! Based on the code and structure you provided, I’ll now create a detailed **README.md** file for your **Insurance Cost Prediction** project. The README will follow the structure you provided earlier, with icons, visuals, and clear explanations for each step.
-
----
 
 # 🏥 Insurance Cost Prediction - Machine Learning Project
 
@@ -180,7 +177,3 @@ This project successfully built a machine learning model to predict insurance co
    model = pickle.load(open("GBR_model.pkl", "rb"))
    predictions = model.predict(new_data)
    ```
-
----
-
-Let me know if you need further adjustments or additional details! 🚀
