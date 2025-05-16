@@ -1,7 +1,3 @@
-Here’s a professional `README.md` for your IMDB Sentiment Analysis project:
-
----
-
 # 🎬 IMDB Movie Review Sentiment Analysis - Deep Learning Project
 
 ## Table of Contents
