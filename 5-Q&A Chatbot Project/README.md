@@ -21,7 +21,7 @@ An interactive AI chatbot interface powered by OpenAI's language models. Feature
 
 ---
 
-## 🎉 Demo
+## 🎥 Demo : https://shorturl.at/R2ugm
 
 ⚙️ **Key Features**
 
